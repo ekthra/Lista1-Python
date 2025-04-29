@@ -41,15 +41,16 @@ Desenvolver habilidades básicas de programação com Python, por meio da resolu
 
   1. Clone o repositório:
 
-        git clone https://github.com/seu-usuario/lista-python-exercicios.git
+    git clone https://github.com/ekthra/Lista1-Python.git
+
 
   2. Acesse a pasta do projeto:
 
-        cd lista-python-exercicios
+    cd lista-python-exercicios
 
   3.Execute o arquivo com Python 3:
 
-        python lista1.py
+    python lista1.py
 
   4.Algumas funcionalidades exigem entradas via teclado durante a execução.
 
